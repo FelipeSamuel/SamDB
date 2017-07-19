@@ -2,6 +2,9 @@
 /**
 * Classe criada para fazer consultas no banco de dados
 * Autor: Felipe Samuel
+* Site: www.felipesamuel.com
+* E-mail: contato@felipesamuel.com | pessoal@felipesamuel.com | felipe.samuel@outlook.com.br | felipe.samuel.ti@gmail.com
+* Telefone: (87) 9 8821-4383 ou (34) 9 9886-4383
 * Data: 27/06/2017
 */
 
